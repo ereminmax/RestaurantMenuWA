@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<type_list>
+    <type_item id="1">
+        First
+    </type_item>
+    <type_item id="2">
+        Second
+    </type_item>
+    <type_item id="3">
+        Salad
+    </type_item>
+    <type_item id="4">
+        Sweet
+    </type_item>
+</type_list>

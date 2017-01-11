@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu_list>
+    <menu_item>
+        <name>
+            Суп по-итальянски
+        </name>
+        <dishType>
+            1
+        </dishType>
+        <price>
+            87
+        </price>
+    </menu_item>
+    <menu_item>
+        <name>
+            Печень по королевски
+        </name>
+        <dishType>
+            2
+        </dishType>
+        <price>
+            54
+        </price>
+    </menu_item>
+</menu_list>

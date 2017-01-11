@@ -1,0 +1,92 @@
+<menu_list>
+   <menu_item>
+      <name>Рулет с изюмом</name>
+      <dishType>4</dishType>
+      <price>15.0</price>
+   </menu_item>
+   <menu_item>
+      <name>Печень по королевски</name>
+      <dishType>2</dishType>
+      <price>54.0</price>
+   </menu_item>
+   <menu_item>
+      <name>Рис отварной с маслом</name>
+      <dishType>2</dishType>
+      <price>16.0</price>
+   </menu_item>
+   <menu_item>
+      <name>Салат Изюминка</name>
+      <dishType>3</dishType>
+      <price>35.0</price>
+   </menu_item>
+   <menu_item>
+      <name>Пирог с повидлом</name>
+      <dishType>4</dishType>
+      <price>13.0</price>
+   </menu_item>
+   <menu_item>
+      <name>Пирог с яблоками</name>
+      <dishType>4</dishType>
+      <price>13.0</price>
+   </menu_item>
+   <menu_item>
+      <name>Салат Лукошко</name>
+      <dishType>3</dishType>
+      <price>40.0</price>
+   </menu_item>
+   <menu_item>
+      <name>Салат Капустный с помидором</name>
+      <dishType>3</dishType>
+      <price>19.0</price>
+   </menu_item>
+   <menu_item>
+      <name>Суп харчо с говядиной</name>
+      <dishType>1</dishType>
+      <price>31.0</price>
+   </menu_item>
+   <menu_item>
+      <name>Суп куриный с грибами</name>
+      <dishType>1</dishType>
+      <price>34.0</price>
+   </menu_item>
+   <menu_item>
+      <name>Суп болгарский вегетарианский</name>
+      <dishType>1</dishType>
+      <price>21.0</price>
+   </menu_item>
+   <menu_item>
+      <name>Рыбное филе с помидоркой</name>
+      <dishType>2</dishType>
+      <price>54.0</price>
+   </menu_item>
+   <menu_item>
+      <name>Свинина запеченная&quot;По-гусарски&quot;</name>
+      <dishType>2</dishType>
+      <price>68.0</price>
+   </menu_item>
+   <menu_item>
+      <name>Греча с маслом</name>
+      <dishType>2</dishType>
+      <price>17.0</price>
+   </menu_item>
+   <menu_item>
+      <name>Макароны отварные</name>
+      <dishType>2</dishType>
+      <price>15.0</price>
+   </menu_item>
+   <menu_item>
+      <name>Мясо по-французски</name>
+      <dishType>2</dishType>
+      <price>120.0</price>
+   </menu_item>
+   <menu_item>
+      <name>Вареники с картошкой</name>
+      <dishType>2</dishType>
+      <price>53.0</price>
+   </menu_item>
+   <menu_item>
+      <name>Суп по-итальянски</name>
+      <dishType>1</dishType>
+      <price>87.0</price>
+   </menu_item>
+</menu_list>
